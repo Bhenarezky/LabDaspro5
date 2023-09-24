@@ -2,6 +2,7 @@ uses crt;
 var
   a,c:string;
   b,d:integer;
+  
 begin
   writeln ('masukkan jalan :');
   readln(a);
