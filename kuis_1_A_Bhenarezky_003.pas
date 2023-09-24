@@ -12,5 +12,5 @@ begin
  readln(c);
  writeln('masukkan alamat anda :');
  readln(d);
- writeln('Hallo, Nama saya ',a,', NIM saya ',b,',saya di KOM ',C,' Alamat saya di jalan ',d,'.Salam Kenal Semua.')
+ writeln('Hallo, Nama saya ',a,', NIM saya ',b,', saya di KOM ',C,' ,Alamat saya di jalan ',d,'.Salam Kenal Semua.')
 end.
