@@ -38,14 +38,17 @@ begin clrscr;
     
     case (nimint) of
     0100:kodeprodi:=('Kedokteran');
+
     0200:kodeprodi:=('Ilmu Hukum');
+
     0301:kodeprodi:=('Agroteknologi');
     0302:kodeprodi:=('Manajemen Sumberdaya Perairan');
     0303:kodeprodi:=('Agribisnis');
-    0304:kodeprodi:=('Teknologi Pangan');
-    0305:kodeprodi:=('Peternakan');
-    0306:kodeprodi:=('Teknik Pertanian dan Biosistem');
-    0307:kodeprodi:=('Agroteknologi (PSDKU)');
+    0305:kodeprodi:=('Teknologi Pangan');
+    0306:kodeprodi:=('Peternakan');
+    0308:kodeprodi:=('Teknik Pertanian dan Biosistem');
+    0310:kodeprodi:=('Agroteknologi (PSDKU)');
+
     0401:kodeprodi:=('Teknik Mesin');
     0402:kodeprodi:=('Teknik Elektro');
     0403:kodeprodi:=('Teknik Industri');
@@ -54,12 +57,15 @@ begin clrscr;
     0406:kodeprodi:=('Arsitektur');
     0407:kodeprodi:=('Teknik Lingkungan');
     0431:kodeprodi:=('Pendidikan Profesi Insinyur');
+
     0501:kodeprodi:=('Ekonomi Pembangunan');
     0502:kodeprodi:=('Manajemen');
     0503:kodeprodi:=('Akuntansi');
     0504:kodeprodi:=('Kewirausahaan');
+
     0600:kodeprodi:=('Sarjana Kedokteran Gigi');
     0631:kodeprodi:=('Profesi Kedokteran Gigi');
+
     0701:kodeprodi:=('Sastra Indonesia');
     0702:kodeprodi:=('Sastra Melayu');
     0703:kodeprodi:=('Sastra Batak');
@@ -70,10 +76,12 @@ begin clrscr;
     0708:kodeprodi:=('Sastra Jepang');
     0709:kodeprodi:=('Perpustakaan dan Sains Informasi');
     0710:kodeprodi:=('Bahasa Mandarin');
+
     0801:kodeprodi:=('Fisika');
     0802:kodeprodi:=('Kimia');
     0803:kodeprodi:=('Matematika');
     0805:kodeprodi:=('Biologi');
+
     0901:kodeprodi:=('Sosiologi');
     0902:kodeprodi:=('Ilmu Kesejahteraan Sosial');
     0903:kodeprodi:=('Ilmu Administrasi Publik');
@@ -81,14 +89,20 @@ begin clrscr;
     0905:kodeprodi:=('Antropologi Sosial');
     0906:kodeprodi:=('Ilmu Politik');
     0907:kodeprodi:=('Ilmu Administrasi Bisnis');
+
     1000:kodeprodi:=('Kesehatan Masyarakat');
     1001:kodeprodi:=('Gizi');
+
     1101:kodeprodi:=('Sarjana Keperawatan');
     1102:kodeprodi:=('Profesi Ners');
+
     1201:kodeprodi:=('Kehutanan');
+
     1301:kodeprodi:=('Psikologi');
+
     1401:kodeprodi:=('Ilmu Komputer');
     1402:kodeprodi:=('Teknologi Informasi');
+    
     1501:kodeprodi:=('Farmasi');
     else kodeprodi:=('Prodi anda tidak ditemukan');
     end;
