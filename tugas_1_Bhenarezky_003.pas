@@ -135,8 +135,8 @@ begin kelas:='B';
     else kelas:='C';
 
     nimint:=strtoint(nim);
-    nimint:=strtoint(prodi);
-    if (nimint = 1401) then
+    nimint:=strtoint(fakultas);
+    if (nimint = 14) then
     begin
     writeln('------------------------------------');
     writeln('Nama :',nama);
