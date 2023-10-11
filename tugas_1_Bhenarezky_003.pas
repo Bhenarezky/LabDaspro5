@@ -141,9 +141,9 @@ begin kelas:='B';
     writeln('------------------------------------');
     writeln('Nama :',nama);
     writeln('Nim :',nim);
-    writeln('Stambuk :',stambuk);
     writeln('Fakultas :',kodefakultas);
     writeln('Prodi :',kodeprodi);
+    writeln('Stambuk :20',stambuk);
     writeln('Jalur :',Jalur);
     writeln('Kelas :',kelas);
     end 
@@ -151,9 +151,9 @@ begin kelas:='B';
     writeln('------------------------------------');
     writeln('Nama :',nama);
     writeln('Nim :',nim);
-    writeln('Stambuk :',stambuk);
     writeln('Fakultas :',kodefakultas);
     writeln('Prodi :',kodeprodi);
+    writeln('Stambuk :20',stambuk);
     end;
 end.
     
