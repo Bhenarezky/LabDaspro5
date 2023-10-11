@@ -116,7 +116,7 @@ begin clrscr;
 begin jalur:='SNBP';
     end
     else
-    if(nimint <075) then
+    if(nimint <=075) then
 begin jalur:='SNBT';
     end
     else
