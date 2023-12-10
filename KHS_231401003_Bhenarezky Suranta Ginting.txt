@@ -1,0 +1,22 @@
+KARTU HASIL STUDI
+=================
+
+Nama    : Bhenarezky Suranta Ginting
+NIM     : 231401003
+
+|================================================|
+| No | Mata Kuliah                     | Nilai   |
+|================================================|
+|  1 | Matematika Dasar                |  A      |     
+|  2 | Pengantar Ilmu Komputer         |  A      |     
+|  3 | Praktikum Dasar Pemrograman     |  A      |     
+|  4 | Organisiasi Arsitektur Komputer |  B      |     
+|  5 | Dasar Pemrograman               |  A      |     
+|  6 | Logika Matematika               |  A      |     
+|  7 | Bahasa Indonesia                |  A      |     
+|  8 | Pendidikan Pancasila            |  B      |     
+|================================================|
+
+Total SKS   : 19
+IP Semester : 3.74
+
